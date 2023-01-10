@@ -2,7 +2,7 @@
 
 ## Content
 
-- [Private Decision Tree Evaluation](#Private Decision Tree Evaluation)
+- [Private Decision Tree Evaluation](#pdte)
 
 ## Private Decision Tree Evaluation
 
