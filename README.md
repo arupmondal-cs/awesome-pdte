@@ -14,6 +14,7 @@
 - [Private Decision Tree Evaluation with Constant Rounds via (Only) Fair SS-4PC](https://link.springer.com/chapter/10.1007/978-3-030-90567-5_16) [ACISP 2021]
 - [Private Decision Tree Evaluation with Constant Rounds via (Only) SS-3PC over Ring
 ](https://dl.acm.org/doi/abs/10.1007/978-3-030-62576-4_15) [ProvSec 2020]
+- [SoK: Modular and Efficient Private Decision Tree Evaluation](https://eprint.iacr.org/2018/1099) [PoPETs 2019]
 
 
 
