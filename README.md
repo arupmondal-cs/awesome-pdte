@@ -9,6 +9,7 @@
 
 ## Private Decision Tree Evaluation
 
+* [SortingHat: Efficient Private Decision Tree Evaluation via Homomorphic Encryption and Transciphering](https://eprint.iacr.org/2022/757) [ACM CCS 2022]
 * [Private Decision Tree Evaluation with Constant Rounds via (Only) SS-3PC over Ring and Field](https://www.jstage.jst.go.jp/article/transfun/E105.A/3/E105.A_2021CIP0018/_article) [IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences 2022]
 * [Private Decision Tree Evaluation with Constant Rounds via (Only) Fair SS-4PC](https://link.springer.com/chapter/10.1007/978-3-030-90567-5_16) [ACISP 2021]
 * [Private Decision Tree Evaluation with Constant Rounds via (Only) SS-3PC over Ring
