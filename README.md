@@ -2,7 +2,7 @@
 
 ## Contents
 
-- [Private Decision Tree Evaluation](#pdte)
+- [Private Decision Tree Evaluation](#private-decision-tree-evaluation)
 - [Secure Comparison](#secure-comparison)
 
 
