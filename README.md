@@ -21,5 +21,6 @@
 
 ## Secure Comparison
 
+- [Improved Secure Integer Comparison via Homomorphic Encryption](https://eprint.iacr.org/2019/427) [CT-RSA 2020]
 - [Correction to "Improving the DGK comparison protocol"](https://eprint.iacr.org/2018/1100) [IEEE International Workshop on Information Forensics and Security 2012]
 - [Homomorphic encryption and secure comparison](https://dl.acm.org/doi/10.1504/IJACT.2008.017048) [International Journal of Applied Cryptography 2008]
