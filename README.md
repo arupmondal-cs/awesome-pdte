@@ -3,7 +3,7 @@
 ## Contents
 
 - [Private Decision Tree Evaluation](#pdte)
-- [Secure Comparison](#seccomp)
+- [Secure Comparison](#secure-comparison)
 
 
 
