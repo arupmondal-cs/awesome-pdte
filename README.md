@@ -1,4 +1,4 @@
-# A list of important paper and links on Private Decision Tree Evaluation, Applications and Secure Comparison
+# awesome Private Decision Tree Evaluation
 
 ## Private Decision Tree Evaluation
 
