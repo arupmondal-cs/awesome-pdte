@@ -18,3 +18,5 @@
 
 
 ## Secure Comparison
+
+* [Homomorphic encryption and secure comparison](https://dl.acm.org/doi/10.1504/IJACT.2008.017048) [International Journal of Applied Cryptography 2008]
