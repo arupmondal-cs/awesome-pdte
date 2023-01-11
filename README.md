@@ -21,6 +21,7 @@
 
 ## Secure Comparison
 
+- [Through the Looking-Glass: Benchmarking Secure Multi-Party Computation Comparisons for ReLU's](https://eprint.iacr.org/2022/202) [CANS 2022]
 - [Improved Secure Integer Comparison via Homomorphic Encryption](https://eprint.iacr.org/2019/427) [CT-RSA 2020]
 - [SecureNN: 3-Party Secure Computation for Neural Network Training](https://eprint.iacr.org/2018/442.pdf) [PETS 2018]
 - [Correction to "Improving the DGK comparison protocol"](https://eprint.iacr.org/2018/1100) [IEEE International Workshop on Information Forensics and Security 2012]
