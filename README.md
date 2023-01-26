@@ -1,6 +1,11 @@
 # awesome Private Decision Tree Evaluation and Secure Comparison [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-The idea of creating this awesome reading list is initited and inspired by [Abdelrahaman Aly](https://scholar.google.es/citations?user=FDfDueMAAAAJ&hl=en) for our [TII](https://www.tii.ae/) projects, and the list format was insipired from [awesome-mpc](https://github.com/rdragos/awesome-mpc). It is designed to have a central place where everyone can find important materials to the topic of **private decision tree evaluaton** and **secure comparison**.
+The idea of creating this awesome reading list is initited and inspired by [Abdelrahaman Aly](https://scholar.google.es/citations?user=FDfDueMAAAAJ&hl=en) for our [TII](https://www.tii.ae/) projects, and the list format was insipired from [awesome-mpc](https://github.com/rdragos/awesome-mpc). It is designed to have a central place where everyone can find important materials to the topic of **private decision tree evaluaton (PDTE)** and **secure comparison (SC)**.
+
+Moreover, the list is sorted by publishing year.
+
+Please feel free to do a pull request with any **PDTE** and **SC** resource you know and it is not on the list. The current classification might not be most suitable one and I am open to any suggestions.
+
 
 ## Contents
 
