@@ -6,6 +6,7 @@ Moreover, the list is sorted by publishing year.
 
 Please feel free to do a pull request with any **PDTE** and **SC** resource you know and it is not on the list. The current classification might not be most suitable one and I am open to any suggestions.
 
+---
 
 ## Contents
 
