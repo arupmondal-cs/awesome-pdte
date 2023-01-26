@@ -32,7 +32,7 @@ Please feel free to do a pull request with any **PDTE** and **SC** resource you 
 ## Secure Comparison
 
 - [Through the Looking-Glass: Benchmarking Secure Multi-Party Computation Comparisons for ReLU's](https://eprint.iacr.org/2022/202) [CANS 2022]
-  - 
+  - Descriptio
 - [Rabbit: Efficient Comparison for Secure Multi-Party Computation](https://eprint.iacr.org/2021/119) [FC 2021]
 - [Improved Primitives for MPC over Mixed Arithmetic-Binary Circuits](https://eprint.iacr.org/2020/338) [CRYPTO 2020]
 - [Improved Secure Integer Comparison via Homomorphic Encryption](https://eprint.iacr.org/2019/427) [CT-RSA 2020]
