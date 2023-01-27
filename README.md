@@ -13,6 +13,7 @@ Please feel free to do a pull request with any **SC** and **PDTE** resource you 
 - [Secure Comparison](#secure-comparison)
 - [Private Decision Tree Evaluation](#private-decision-tree-evaluation)
 
+---
 
 
 ## Secure Comparison
