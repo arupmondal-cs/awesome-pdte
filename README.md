@@ -19,7 +19,9 @@ Please feel free to do a pull request with any **SC** and **PDTE** resource you 
 ## Secure Comparison
 
 - [Through the Looking-Glass: Benchmarking Secure Multi-Party Computation Comparisons for ReLU's](https://eprint.iacr.org/2022/202) [CANS 2022]
-  - This paper present a series of constant round variations and adaptations of the secure comparison protocols, introduced by [2021/119](https://eprint.iacr.org/2021/119). 
+  - This paper present a series of constant round variations and adaptations of the secure comparison protocols, introduced by [2021/119](https://eprint.iacr.org/2021/119).
+- [A Method for Securely Comparing Integers using Binary Trees](https://eprint.iacr.org/2021/1646) [ePrint 2021/1646]
+  - This paper proposed a new protocol for secure integer comparison which consists of parties having each a private integer. Their protocol relies on binary decision trees that is a special case of branching programs and can be implemented using homomorphic encryption.
 - [Rabbit: Efficient Comparison for Secure Multi-Party Computation](https://eprint.iacr.org/2021/119) [FC 2021]
   - This work presents a novel construction for general nparty private comparison, secure against an active adversary, in the dishonest majority setting. 
 - [Improved Primitives for MPC over Mixed Arithmetic-Binary Circuits](https://eprint.iacr.org/2020/338) [CRYPTO 2020]
