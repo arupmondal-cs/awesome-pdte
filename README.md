@@ -23,7 +23,6 @@ Please feel free to do a pull request with any **SC** and **PDTE** resource you 
 - [Rabbit: Efficient Comparison for Secure Multi-Party Computation](https://eprint.iacr.org/2021/119) [FC 2021] - This work presents a novel construction for general *n*-party private comparison, secure against an active adversary, in the dishonest majority setting. 
 - [Improved Primitives for Secure Multiparty Integer Computation](https://link.springer.com/chapter/10.1007/978-3-642-15317-4_13) [SCN 2010]
 - [Homomorphic encryption and secure comparison](https://dl.acm.org/doi/10.1504/IJACT.2008.017048) [International Journal of Applied Cryptography 2008] - This paper proposed a protocol for secure comparison of integers based on homomorphic encryption, and also proposed a homomorphic encryption scheme that can be used in their comparison protocol, makes it more efficient than previous solutions, and can also be used as the basis of efficient and general secure multiparty computation.
-- [Multiparty Computation for Interval, Equality, and Comparison without Bit-Decomposition Protocol](https://www.iacr.org/archive/pkc2007/44500343/44500343.pdf) [PKC 2007]
 
 
 ## Private Decision Tree Evaluation
