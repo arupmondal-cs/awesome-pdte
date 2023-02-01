@@ -29,7 +29,6 @@ Please feel free to do a pull request with any **SC** and **PDTE** resource you 
 
 - [Scalable Private Decision Tree Evaluation with Sublinear Communication](https://dl.acm.org/doi/10.1145/3488932.3517413) [AsiaCCS 202]
 - [SortingHat: Efficient Private Decision Tree Evaluation via Homomorphic Encryption and Transciphering](https://eprint.iacr.org/2022/757) [ACM CCS 2022]
-- [Private Decision Tree Evaluation with Constant Rounds via (Only) SS-3PC over Ring and Field](https://www.jstage.jst.go.jp/article/transfun/E105.A/3/E105.A_2021CIP0018/_article) [IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences 2022]
 - [Private Decision Tree Evaluation with Constant Rounds via (Only) Fair SS-4PC](https://link.springer.com/chapter/10.1007/978-3-030-90567-5_16) [ACISP 2021]
 - [Private Decision Tree Evaluation with Constant Rounds via (Only) SS-3PC over Ring
 ](https://dl.acm.org/doi/abs/10.1007/978-3-030-62576-4_15) [ProvSec 2020]
