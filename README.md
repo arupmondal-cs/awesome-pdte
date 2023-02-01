@@ -27,7 +27,7 @@ Please feel free to do a pull request with any **SC** and **PDTE** resource you 
 
 ## Private Decision Tree Evaluation
 
-- [Scalable Private Decision Tree Evaluation with Sublinear Communication](https://dl.acm.org/doi/10.1145/3488932.3517413) [AsiaCCS 202]
+- [Scalable Private Decision Tree Evaluation with Sublinear Communication](https://dl.acm.org/doi/10.1145/3488932.3517413) [AsiaCCS 202] - This paper  proposeed two sublinear-communication private decision tree evaluation protocols by carefully combining a modified tree encoding method, the Shared Oblivious Selection functionality and efficient secure computation techniques.
 - [SortingHat: Efficient Private Decision Tree Evaluation via Homomorphic Encryption and Transciphering](https://eprint.iacr.org/2022/757) [ACM CCS 2022] - This paper present an efficient non-interactive design of private decision tree evaluation technique based on fully-homomorphic encryption. Also, as part of their protocol design, they proposed a fast homomorphic comparison.
 - [Private Decision Tree Evaluation with Constant Rounds via (Only) Fair SS-4PC](https://link.springer.com/chapter/10.1007/978-3-030-90567-5_16) [ACISP 2021]
 - [Private Decision Tree Evaluation with Constant Rounds via (Only) SS-3PC over Ring
